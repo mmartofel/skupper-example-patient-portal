@@ -1,0 +1,5 @@
+
+camel.component.braintree.configuration.environment = sandbox
+camel.component.braintree.configuration.merchant-id = fkcw8fs6c73jqkfn
+camel.component.braintree.configuration.public-key = 9bv4hsb7xc9hk3q6
+camel.component.braintree.configuration.private-key = f8ef135d16ab96fbeba472dfd7a3cdcd
